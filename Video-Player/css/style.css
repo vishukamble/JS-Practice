@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #bee9e8;
+  background-color: #1f2833;
   font-family: 'Baloo Da 2', cursive;
   display: flex;
   flex-direction: column;
@@ -16,7 +16,7 @@ body {
 }
 
 h1 {
-  color: black;
+  color: #fff;
 }
 
 .controls .btn {
@@ -46,7 +46,7 @@ h1 {
 .screen {
   cursor: pointer;
   width: 60%;
-  background-color: black !important;
+  background-color: whitesmoke !important;
   border-top-left-radius: 20px;
   border-top-right-radius: 20px;
   display: flex;
